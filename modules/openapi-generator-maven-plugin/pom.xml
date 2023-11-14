@@ -9,6 +9,7 @@
         <!-- /RELEASE_VERSION -->
         <relativePath>../..</relativePath>
     </parent>
+    <groupId>net.ranides.openapitools</groupId>
     <artifactId>openapi-generator-maven-plugin</artifactId>
     <name>openapi-generator (maven-plugin)</name>
     <packaging>maven-plugin</packaging>
@@ -27,23 +28,23 @@
         <dependency>
             <groupId>org.apache.maven</groupId>
             <artifactId>maven-core</artifactId>
-            <version>3.8.6</version>
+            <version>3.3.9</version>
         </dependency>
         <dependency>
             <groupId>org.apache.maven</groupId>
             <artifactId>maven-artifact</artifactId>
-            <version>3.8.6</version>
+            <version>3.3.9</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.maven</groupId>
             <artifactId>maven-compat</artifactId>
-            <version>3.8.6</version>
+            <version>3.3.9</version>
         </dependency>
         <dependency>
             <groupId>org.apache.maven</groupId>
             <artifactId>maven-plugin-api</artifactId>
-            <version>3.8.6</version>
+            <version>3.3.9</version>
         </dependency>
         <dependency>
             <groupId>org.apache.maven.plugin-tools</groupId>

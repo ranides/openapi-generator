@@ -16,7 +16,7 @@
         <plugins>
             <!-- activate the plugin -->
             <plugin>
-                <groupId>org.openapitools</groupId>
+                <groupId>net.ranides.openapitools</groupId>
                 <artifactId>openapi-generator-maven-plugin</artifactId>
                 <!-- RELEASE_VERSION -->
                 <version>6.6.0</version>

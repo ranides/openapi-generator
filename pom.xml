@@ -58,10 +58,16 @@
             <name>Justin Black</name>
             <email>justin.a.black@gmail.com</email>
         </developer>
+        <!-- Created fork for mvn 3.3.9 -->
+        <developer>
+            <id>ranides</id>
+            <name>Ranides Atterwim</name>
+            <email>ranides@gmail.com</email>
+        </developer>
     </developers>
     <issueManagement>
         <system>github</system>
-        <url>https://github.com/openapitools/openapi-generator/issues</url>
+        <url>https://github.com/ranides/openapi-generator/issues</url>
     </issueManagement>
     <distributionManagement>
         <snapshotRepository>
